@@ -1,0 +1,9 @@
+{
+  "name": "slack-alerts-via-lambda",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::589072213673:role/slack-alerts-via-lambda_lambda_function",
+  "environment": {},
+  "runtime": "nodejs8.10"
+}

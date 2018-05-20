@@ -1,0 +1,11 @@
+{
+  "name": "cloudwatchToSlack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^4.2.2",
+    "apex.js": "^2.0.0",
+    "node-fetch": "^2.1.2"
+  }
+}
